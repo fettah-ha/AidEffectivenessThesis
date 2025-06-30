@@ -9,4 +9,3 @@ This repository gather all the conducted experiments  to assess the effectivenes
 * Step 3: Preparing the data with lagged aids. To do so, it was mandatory to make sure that for each pair (receiver, donor) we have data records for all years from 2000 to 2023. That being said, if for a given pair there is no aids given we will create the record to ensure the smooth integration of lags and force the aid amoutn to zero. done in the stata file  Data_Processing_Add_LagAid.do
 
 # Modeling the impact of the Aids on the poverty reduction: 
-
