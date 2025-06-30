@@ -23,4 +23,4 @@ The data processing is done in 4 main steps:
 
 ### Model_IVREG_laggedAid_Election.do: 
 * Used the data data generated from the 4th step
-* i
+* It is the same IVREG model having another dimension controlling if receiving the aids in an election year will have a direct impact on poverty reduction
